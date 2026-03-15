@@ -1,6 +1,6 @@
 # 👋 I'm Jessica Borges
 
-**Java Backend Developer @ IT Academy | Cybersecurity & IBM Data Science Scholar** **Senior Professional: 6+ Years EU Logistics Mediation & US Management**
+**Java Backend Developer @ IT Academy | Cybersecurity & IBM Data Science Scholar** | **Senior Professional: 6+ Years EU Logistics Mediation & US Management**
 
 **📍 Spain (Remote / Hybrid / Relocation)** **[LinkedIn](https://www.linkedin.com/in/jessica-borges-cyber) | [Cybersecurity Portfolio](https://github.com/Borgesjesk/Cybersecurity-Portfolio) | [Email Me](mailto:jessica.your.email@gmail.com)**
 
