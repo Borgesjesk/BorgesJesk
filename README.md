@@ -2,6 +2,10 @@
   <img src="soc-monitor.svg" alt="SOC monitoring animation" width="840"/>
 </p>
 
+<p align="center">
+  <img src="soc-monitor.svg" alt="SOC monitoring animation — monitor, detect, respond, secure" width="840"/>
+</p>
+
 # 👋 I'm Jessica Borges
 
 **Financial Fraud Investigator → Cybersecurity & Secure Backend Development**
@@ -24,7 +28,7 @@ This isn't a career change. It's the **same mission, new tools.**
 
 | Program | Status | Focus |
 |---------|--------|-------|
-| **IT Academy Barcelona Activa** — Java Backend Bootcamp | Sprint 3 of 5 (Design Patterns) | Java 21, Maven, JUnit 5, Spring Boot, REST APIs, MySQL, MongoDB |
+| **IT Academy Barcelona Activa** — Java Backend Bootcamp | Sprint 4 of 5 (Spring Boot & REST APIs) | Java 21, Maven, JUnit 5, Spring Boot, REST APIs, MySQL, MongoDB |
 | **Ironhack IFCT0109** — Seguridad Informática (500h) | In Progress (May–Dec 2026) | Certificado de Profesionalidad + CompTIA Security+ |
 | **Google Cybersecurity Professional Certificate** | 7/8 Courses Complete | NIST, SIEM, Linux, SQL, Python, Incident Response |
 | **42 Barcelona** | Accepted (Piscine June 2026) | Low-level programming, C, systems |
@@ -68,7 +72,8 @@ Trilingual (EN / ES / PT) · International Mediation · KYC & Due Diligence · C
 |--------|-------|------|
 | S1.01–S1.09 | OOP, Inheritance, Interfaces, Generics, Streams, Lambdas, File I/O, JUnit 5 | [Sprint 1 Series](https://github.com/Borgesjesk?tab=repositories&q=s1&type=&language=java) |
 | S2.01–S2.04 | MySQL, MongoDB, Docker, Schema Design, Complex Queries | [Sprint 2 Series](https://github.com/Borgesjesk?tab=repositories&q=s2&type=&language=) |
-| S3.xx | Design Patterns (in progress) | Coming soon |
+| S3.01–S3.03 | SOLID Principles, Design Patterns (Singleton, Factory, Strategy, Builder, Observer, Decorator) ✅ | [Sprint 3 Series](https://github.com/Borgesjesk?tab=repositories&q=s3&type=&language=) |
+| S4.01–S4.02 | Spring Framework, Spring Boot, REST APIs (in progress) | [Sprint 4 Series](https://github.com/Borgesjesk?tab=repositories&q=s4&type=&language=) |
 
 ### 🛡️ Cybersecurity
 
@@ -82,7 +87,7 @@ Trilingual (EN / ES / PT) · International Mediation · KYC & Due Diligence · C
 
 ## 🎯 What's Next
 
-- **Now:** Completing Sprint 3 (Design Patterns) + starting Ironhack IFCT0109
+- **Now:** Completing Sprint 4 (Spring Boot & REST APIs) + starting Ironhack IFCT0109
 - **Target Role:** SOC Analyst L1 / Junior Security Engineer (Q3–Q4 2026)
 - **Growth Path:** SOC → DevSecOps → Senior DevSecOps (Remote EU/US)
 - **Availability:** Open to remote, hybrid, or relocation within Spain & EU
@@ -91,4 +96,4 @@ Trilingual (EN / ES / PT) · International Mediation · KYC & Due Diligence · C
 
 > *"Professionalism is the bridge between code and business value."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Borgesjesk&color=blueviolet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jessica--borges--cyber-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jessica-borges-cyber) [![Email](https://img.shields.io/badge/Email-jessborgesb@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jessborgesb@gmail.com)
