@@ -1,50 +1,90 @@
 # 👋 I'm Jessica Borges
 
-**Java Backend Developer @ IT Academy | Cybersecurity & IBM Data Science Scholar** | **Senior Professional: 6+ Years EU Logistics Mediation & US Management**
+**Financial Fraud Investigator → Cybersecurity & Secure Backend Development**
 
-**📍 Spain (Remote / Hybrid / Relocation)** **[LinkedIn](https://www.linkedin.com/in/jessica-borges-cyber) | [Cybersecurity Portfolio](https://github.com/Borgesjesk/Cybersecurity-Portfolio) | [Email Me](mailto:jessica.your.email@gmail.com)**
-
----
-
-### 🚀 The "Hybrid" Advantage
-I bridge **6+ years of high-stakes Conflict Resolution and International Logistics Mediation** with technical mastery in **Java Spring Boot**, **Cybersecurity**, and **Data Science**. My experience at **WTRANSNET** (Alpega Group) built a "Zero-Failure" mindset that I apply to building secure, scalable, and resilient backend systems.
-
-### 🛠️ Technical Focus & Training
-* **Java Backend (IT Academy Barcelona Activa):** * **Sprint 1 Completed:** Java Fundamentals (Polymorphism, Collections, Testing, Lambdas & Streams).
-    * **Sprint 2 In Progress:** Advanced Spring Boot structures & REST APIs.
-* **Cybersecurity:** Finalizing **Course 7/8** of the Google Cybersecurity Professional Certificate.
-* **Data Science:** **IBM Scholar** focusing on predictive analytics and risk management.
+📍 Spain (Remote / Hybrid / Relocation) · 🌐 [LinkedIn](https://linkedin.com/in/jessica-borges-cyber) · 🛡️ [Cybersecurity Portfolio](https://github.com/Borgesjesk/Cybersecurity-Portfolio) · ✉️ [Email Me](mailto:jessborgesb@gmail.com)
 
 ---
 
-### 📊 Professional Skills Bridge
-| 🚢 Logistics & Mediation | 💻 Technical & Security Application |
-| :--- | :--- |
-| **Financial Dispute Mediation** | Logic-driven Debugging & Problem Solving |
-| **EU Transport Regulations** | GRC (Governance, Risk, & Compliance) |
-| **Logistics Flow Optimization** | Backend Architecture & API Efficiency |
-| **Crisis Management** | Incident Response & System Reliability |
+## 🚀 Why Hire a Fraud Investigator for Security?
+
+Because I've spent **6+ years catching threat actors in the real world** — and now I build systems that stop them in code.
+
+At **Wtransnet (Alpega Group)**, I ran KYC verification, risk analysis, and cross-border dispute resolution across European markets. I investigated fraudulent companies, analyzed behavioral patterns, and made high-stakes decisions under pressure — the exact skills SOC Analysts and DevSecOps engineers use every day.
+
+This isn't a career change. It's the **same mission, new tools.**
 
 ---
 
-### 🧰 Technical Toolbox
-* **Languages:** Java (OOP, Lambdas, Streams, JUnit 5), SQL, Python.
-* **Security:** NIST CSF, Risk Assessment (SP 800-53), SIEM (Chronicle/Splunk), Linux CLI.
-* **Data:** Statistical Analysis, Tableau, Advanced Excel.
-* **Soft Skills:** International Mediation, Crisis Leadership, Trilingual (**EN/ES/PT**).
+## 🎓 Current Training (2026)
+
+| Program | Status | Focus |
+|---------|--------|-------|
+| **IT Academy Barcelona Activa** — Java Backend Bootcamp | Sprint 3 of 5 (Design Patterns) | Java 21, Maven, JUnit 5, Spring Boot, REST APIs, MySQL, MongoDB |
+| **Ironhack IFCT0109** — Seguridad Informática (500h) | In Progress (May–Dec 2026) | Certificado de Profesionalidad + CompTIA Security+ |
+| **Google Cybersecurity Professional Certificate** | 7/8 Courses Complete | NIST, SIEM, Linux, SQL, Python, Incident Response |
+| **42 Barcelona** | Accepted (Piscine June 2026) | Low-level programming, C, systems |
 
 ---
 
-### 📁 Featured Portfolios & Projects
+## 🛠️ Technical Toolbox
 
-#### 🛡️ [Cybersecurity Portfolio (Master Repository)](https://github.com/Borgesjesk/Cybersecurity-Portfolio)
-* **NIST 800-53 Risk Assessment:** Vulnerability analysis and control implementation.
-* **SQL Security Investigation:** Auditing access logs for unauthorized entry.
-* **Linux IAM:** Managing permissions and the Principle of Least Privilege.
+**Languages & Frameworks**
+Java 21 (OOP, Generics, Streams, Lambdas) · SQL (MySQL, MongoDB) · Python · Spring Boot · Maven · JUnit 5
 
-#### ☕ Java Backend Highlights (IT Academy)
-* [**Java Sprint 1: Lambdas & Streams**](https://github.com/Borgesjesk/S1.08-Lambdas-Streams) - Functional programming implementation.
-* [**Java Sprint 1: Testing**](https://github.com/Borgesjesk/S1.04-Testing) - Unit testing with JUnit 5 and AssertJ.
+**Security & Defense**
+Wazuh SIEM · Splunk · Suricata IDS · Wireshark · John the Ripper · NIST CSF / SP 800-53 · OWASP Top 10 · Linux CLI · IAM & Least Privilege
+
+**DevOps & Tools**
+Git · Docker · WSL · IntelliJ IDEA · Conventional Commits · CI/CD fundamentals
+
+**Soft Skills**
+Trilingual (EN / ES / PT) · International Mediation · KYC & Due Diligence · Crisis Decision-Making
 
 ---
-*Professionalism is the bridge between code and business value.*
+
+## 📊 Fraud Investigation → Security Engineering
+
+| 🔍 Fraud Investigation (6+ Years) | 🛡️ Technical Security Application |
+|---|---|
+| KYC Verification & Identity Fraud Detection | Authentication, IAM, Zero Trust |
+| Financial Dispute Mediation | Logic-driven Debugging & Root Cause Analysis |
+| EU Transport Regulation Compliance | GRC (Governance, Risk & Compliance) |
+| Behavioral Pattern Analysis | Threat Detection & SIEM Triage |
+| Crisis Management & Escalation | Incident Response & System Reliability |
+| Cross-border Investigation Coordination | SOC Workflows & Collaborative Triage |
+
+---
+
+## 📁 Featured Projects
+
+### ☕ Java Backend (IT Academy)
+
+| Sprint | Focus | Repo |
+|--------|-------|------|
+| S1.01–S1.09 | OOP, Inheritance, Interfaces, Generics, Streams, Lambdas, File I/O, JUnit 5 | [Sprint 1 Series](https://github.com/Borgesjesk?tab=repositories&q=s1&type=&language=java) |
+| S2.01–S2.04 | MySQL, MongoDB, Docker, Schema Design, Complex Queries | [Sprint 2 Series](https://github.com/Borgesjesk?tab=repositories&q=s2&type=&language=) |
+| S3.xx | Design Patterns (in progress) | Coming soon |
+
+### 🛡️ Cybersecurity
+
+- **NIST 800-53 Risk Assessment** — Vulnerability analysis and control implementation
+- **SQL Security Investigation** — Auditing access logs for unauthorized entry patterns
+- **Linux IAM** — Managing permissions with Principle of Least Privilege
+- **42 Barcelona Piscine Ciberseguretat** — CTF challenges: ROT13 binary reversing, AES-CBC decryption, OSINT, hash cracking
+- **TryHackMe SOC Level 1** — Active learning path
+
+---
+
+## 🎯 What's Next
+
+- **Now:** Completing Sprint 3 (Design Patterns) + starting Ironhack IFCT0109
+- **Target Role:** SOC Analyst L1 / Junior Security Engineer (Q3–Q4 2026)
+- **Growth Path:** SOC → DevSecOps → Senior DevSecOps (Remote EU/US)
+- **Availability:** Open to remote, hybrid, or relocation within Spain & EU
+
+---
+
+> *"Professionalism is the bridge between code and business value."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Borgesjesk&color=blueviolet)
