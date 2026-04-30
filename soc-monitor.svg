@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 200" width="840" height="200">
+  <style>
+    @keyframes typing1 { 0%,5% { width: 0 } 15%,100% { width: 195px } }
+    @keyframes typing2 { 0%,18% { width: 0 } 28%,100% { width: 175px } }
+    @keyframes typing3 { 0%,65% { width: 0 } 75%,100% { width: 200px } }
+    @keyframes cursor-blink { 0%,100% { opacity: 1 } 50% { opacity: 0 } }
+    @keyframes scan-sweep { 0% { transform: translateX(0) } 50% { transform: translateX(460px) } 100% { transform: translateX(0) } }
+    @keyframes node-idle { 0%,100% { fill: #3fb950 } 50% { fill: #2ea043 } }
+    @keyframes node-scan { 0% { fill: #484f58 } 30% { fill: #58a6ff } 60% { fill: #58a6ff } 100% { fill: #3fb950 } }
+    @keyframes node3-alert { 0%,30% { fill: #484f58 } 35% { fill: #58a6ff } 45% { fill: #f85149 } 55% { fill: #f85149 } 60% { fill: #f85149 } 70% { fill: #f0883e } 85% { fill: #3fb950 } 100% { fill: #3fb950 } }
+    @keyframes shield-appear { 0%,55% { opacity: 0; transform: scale(0.5) } 62% { opacity: 1; transform: scale(1.1) } 68%,82% { opacity: 1; transform: scale(1) } 88%,100% { opacity: 0; transform: scale(0.8) } }
+    @keyframes line-pulse { 0%,100% { stroke: #30363d } 50% { stroke: #484f58 } }
+    @keyframes status-secure { 0%,80% { opacity: 0 } 85%,95% { opacity: 1 } 100% { opacity: 0 } }
+    @keyframes status-scanning { 0%,5% { opacity: 0 } 10%,55% { opacity: 1 } 60%,100% { opacity: 0 } }
+    @keyframes status-threat { 0%,42% { opacity: 0 } 47%,62% { opacity: 1 } 67%,100% { opacity: 0 } }
+    @keyframes packet1 { 0% { transform: translateX(0) } 100% { transform: translateX(65px) } }
+    @keyframes packet2 { 0% { transform: translateX(0) } 100% { transform: translateX(65px) } }
+    @keyframes packet3 { 0% { transform: translateX(0) } 100% { transform: translateX(-65px) } }
+    @keyframes ring-pulse { 0%,55% { r: 0; opacity: 0 } 58% { r: 4; opacity: 0.8 } 68% { r: 18; opacity: 0 } 100% { opacity: 0 } }
+  </style>
+
+  <rect width="840" height="200" rx="6" fill="#0d1117"/>
+
+  <rect x="16" y="12" width="340" height="176" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <circle cx="30" cy="24" r="4" fill="#f85149"/>
+  <circle cx="42" cy="24" r="4" fill="#f0883e"/>
+  <circle cx="54" cy="24" r="4" fill="#3fb950"/>
+  <text x="180" y="27" fill="#484f58" font-family="monospace" font-size="11" text-anchor="middle">terminal</text>
+
+  <text x="28" y="54" fill="#8b949e" font-family="monospace" font-size="12">$</text>
+  <text x="42" y="54" fill="#79c0ff" font-family="monospace" font-size="12">nmap</text>
+  <text x="78" y="54" fill="#c9d1d9" font-family="monospace" font-size="12">-sV --script vuln</text>
+  <clipPath id="t1"><rect x="28" y="40" height="18"><animate attributeName="width" values="0;0;195;195" keyTimes="0;0.05;0.15;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+  <rect x="28" y="40" width="195" height="18" fill="none"/>
+  <g clip-path="url(#t1)">
+    <text x="28" y="54" fill="#8b949e" font-family="monospace" font-size="12">$ </text>
+    <text x="42" y="54" fill="#79c0ff" font-family="monospace" font-size="12">nmap</text>
+    <text x="78" y="54" fill="#c9d1d9" font-family="monospace" font-size="12">-sV --script vuln</text>
+  </g>
+  <rect x="223" y="42" width="2" height="14" fill="#58a6ff" style="animation: cursor-blink 0.8s step-end infinite"/>
+
+  <clipPath id="t2"><rect x="28" y="62" height="18"><animate attributeName="width" values="0;0;175;175" keyTimes="0;0.18;0.28;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+  <g clip-path="url(#t2)">
+    <text x="28" y="76" fill="#3fb950" font-family="monospace" font-size="12">[+]</text>
+    <text x="58" y="76" fill="#c9d1d9" font-family="monospace" font-size="12">scanning 7 nodes...</text>
+  </g>
+
+  <clipPath id="t3"><rect x="28" y="84" height="18"><animate attributeName="width" values="0;0;200;200" keyTimes="0;0.65;0.75;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+  <g clip-path="url(#t3)">
+    <text x="28" y="98" fill="#f85149" font-family="monospace" font-size="12">[!]</text>
+    <text x="54" y="98" fill="#f0883e" font-family="monospace" font-size="12">CVE-2026-3891 found</text>
+  </g>
+
+  <text x="28" y="120" fill="#8b949e" font-family="monospace" font-size="12" style="animation: status-scanning 12s infinite">STATUS: scanning network</text>
+  <text x="28" y="120" fill="#f85149" font-family="monospace" font-size="12" style="animation: status-threat 12s infinite">STATUS: threat detected!</text>
+  <text x="28" y="120" fill="#3fb950" font-family="monospace" font-size="12" style="animation: status-secure 12s infinite">STATUS: system secured</text>
+
+  <rect x="28" y="134" width="310" height="6" rx="3" fill="#21262d"/>
+  <rect x="28" y="134" width="0" height="6" rx="3" fill="#58a6ff">
+    <animate attributeName="width" values="0;0;100;200;250;310;310;310;0" keyTimes="0;0.1;0.3;0.5;0.65;0.85;0.92;0.98;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#58a6ff;#58a6ff;#58a6ff;#58a6ff;#f85149;#3fb950;#3fb950;#3fb950;#58a6ff" keyTimes="0;0.1;0.3;0.5;0.55;0.7;0.85;0.98;1" dur="12s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="28" y="160" fill="#484f58" font-family="monospace" font-size="11">jessica@soc-ops:~$</text>
+  <rect x="168" y="148" width="7" height="14" fill="#484f58" style="animation: cursor-blink 1s step-end infinite"/>
+
+  <g transform="translate(400, 20)">
+    <text x="200" y="14" fill="#58a6ff" font-family="monospace" font-size="11" text-anchor="middle">network topology</text>
+
+    <line x1="120" y1="80" x2="200" y2="40" stroke="#30363d" stroke-width="0.5" style="animation: line-pulse 3s infinite"/>
+    <line x1="280" y1="80" x2="200" y2="40" stroke="#30363d" stroke-width="0.5" style="animation: line-pulse 3s 0.3s infinite"/>
+    <line x1="60" y1="80" x2="120" y2="80" stroke="#30363d" stroke-width="0.5" style="animation: line-pulse 3s 0.6s infinite"/>
+    <line x1="200" y1="80" x2="120" y2="80" stroke="#30363d" stroke-width="0.5"/>
+    <line x1="200" y1="80" x2="280" y2="80" stroke="#30363d" stroke-width="0.5"/>
+    <line x1="340" y1="80" x2="280" y2="80" stroke="#30363d" stroke-width="0.5" style="animation: line-pulse 3s 0.9s infinite"/>
+    <line x1="60" y1="140" x2="60" y2="80" stroke="#30363d" stroke-width="0.5"/>
+    <line x1="120" y1="140" x2="120" y2="80" stroke="#30363d" stroke-width="0.5"/>
+    <line x1="280" y1="140" x2="280" y2="80" stroke="#30363d" stroke-width="0.5"/>
+    <line x1="340" y1="140" x2="340" y2="80" stroke="#30363d" stroke-width="0.5"/>
+    <line x1="200" y1="120" x2="200" y2="80" stroke="#30363d" stroke-width="0.5"/>
+
+    <g>
+      <rect x="192" y="72" width="16" height="16" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+      <circle cx="200" cy="80" r="4" fill="#58a6ff"/>
+      <text x="200" y="68" fill="#484f58" font-family="monospace" font-size="9" text-anchor="middle">router</text>
+    </g>
+
+    <circle cx="200" cy="40" r="6" style="animation: node-scan 12s 0.5s infinite">
+      <animate attributeName="r" values="6;7;6" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="200" y="30" fill="#484f58" font-family="monospace" font-size="9" text-anchor="middle">gateway</text>
+
+    <circle cx="60" cy="80" r="5" style="animation: node-scan 12s 1s infinite"/>
+    <text x="60" y="96" fill="#484f58" font-family="monospace" font-size="9" text-anchor="middle">srv-01</text>
+
+    <circle cx="340" cy="80" r="5" style="animation: node-scan 12s 1.5s infinite"/>
+    <text x="340" y="96" fill="#484f58" font-family="monospace" font-size="9" text-anchor="middle">srv-02</text>
+
+    <circle cx="60" cy="140" r="5" style="animation: node-scan 12s 2s infinite"/>
+    <text x="60" y="156" fill="#484f58" font-family="monospace" font-size="9" text-anchor="middle">db-01</text>
+
+    <circle cx="120" cy="140" r="5" style="animation: node3-alert 12s 2.5s infinite"/>
+    <text x="120" y="156" fill="#484f58" font-family="monospace" font-size="9" text-anchor="middle">web-03</text>
+    <circle cx="120" cy="140" fill="none" stroke="#f85149" stroke-width="0.5" style="animation: ring-pulse 12s 2.5s infinite"><animate attributeName="r" values="0;4;18" keyTimes="0;0.01;0.1" dur="12s" repeatCount="indefinite"/></circle>
+
+    <circle cx="200" cy="120" r="5" style="animation: node-scan 12s 3s infinite"/>
+    <text x="200" y="136" fill="#484f58" font-family="monospace" font-size="9" text-anchor="middle">api-01</text>
+
+    <circle cx="280" cy="140" r="5" style="animation: node-scan 12s 3.5s infinite"/>
+    <text x="280" y="156" fill="#484f58" font-family="monospace" font-size="9" text-anchor="middle">log-01</text>
+
+    <circle cx="340" cy="140" r="5" style="animation: node-scan 12s 4s infinite"/>
+    <text x="340" y="156" fill="#484f58" font-family="monospace" font-size="9" text-anchor="middle">ids-01</text>
+
+    <g style="animation: shield-appear 12s infinite" transform-origin="120 140">
+      <path d="M120 122 L108 130 L108 144 Q108 154 120 158 Q132 154 132 144 L132 130 Z" fill="none" stroke="#3fb950" stroke-width="1.5"/>
+      <path d="M114 140 L118 145 L127 135" fill="none" stroke="#3fb950" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+
+    <rect x="2" y="72" width="3" height="3" rx="1" fill="#58a6ff" opacity="0.7">
+      <animateMotion dur="2s" repeatCount="indefinite" path="M0,0 L55,0"/>
+    </rect>
+    <rect x="282" y="72" width="3" height="3" rx="1" fill="#58a6ff" opacity="0.7">
+      <animateMotion dur="2.5s" repeatCount="indefinite" path="M0,0 L55,0"/>
+    </rect>
+    <rect x="122" y="82" width="3" height="3" rx="1" fill="#3fb950" opacity="0.7">
+      <animateMotion dur="3s" repeatCount="indefinite" path="M0,0 L0,55"/>
+    </rect>
+  </g>
+
+  <text x="420" y="190" fill="#30363d" font-family="monospace" font-size="10">MONITOR</text>
+  <text x="510" y="190" fill="#30363d" font-family="monospace" font-size="10">DETECT</text>
+  <text x="590" y="190" fill="#30363d" font-family="monospace" font-size="10">RESPOND</text>
+  <text x="680" y="190" fill="#30363d" font-family="monospace" font-size="10">SECURE</text>
+
+  <circle cx="490" cy="187" r="2" fill="#30363d">
+    <animate attributeName="fill" values="#30363d;#58a6ff;#58a6ff;#30363d" keyTimes="0;0.1;0.4;0.45" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="570" cy="187" r="2" fill="#30363d">
+    <animate attributeName="fill" values="#30363d;#30363d;#f85149;#f85149;#30363d" keyTimes="0;0.4;0.45;0.6;0.65" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="655" cy="187" r="2" fill="#30363d">
+    <animate attributeName="fill" values="#30363d;#30363d;#f0883e;#f0883e;#30363d" keyTimes="0;0.6;0.62;0.75;0.8" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="740" cy="187" r="2" fill="#30363d">
+    <animate attributeName="fill" values="#30363d;#30363d;#3fb950;#3fb950;#30363d" keyTimes="0;0.78;0.82;0.95;1" dur="12s" repeatCount="indefinite"/>
+  </circle>
+</svg>
