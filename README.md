@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="soc-monitor.svg" alt="SOC monitoring animation" width="840"/>
+</p>
+
 # 👋 I'm Jessica Borges
 
 **Financial Fraud Investigator → Cybersecurity & Secure Backend Development**
