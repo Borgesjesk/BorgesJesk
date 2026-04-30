@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="soc-monitor.svg" alt="SOC monitoring animation" width="840"/>
-</p>
-
-<p align="center">
   <img src="soc-monitor.svg" alt="SOC monitoring animation — monitor, detect, respond, secure" width="840"/>
 </p>
 
