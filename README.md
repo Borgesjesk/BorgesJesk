@@ -83,10 +83,11 @@ Trilingual (EN / ES / PT) · International Mediation · KYC & Due Diligence · C
 
 ## 🎯 What's Next
 
-- **Now:** Completing Sprint 4 (Spring Boot & REST APIs) + starting Ironhack IFCT0109
-- **Target Role:** SOC Analyst L1 / Junior Security Engineer (Q3–Q4 2026)
-- **Growth Path:** SOC → DevSecOps → Senior DevSecOps (Remote EU/US)
-- **Availability:** Open to remote, hybrid, or relocation within Spain & EU
+- **Now:** Starting Sprint 5 (Final Project — FraudSentinel) + Ironhack IFCT0109 Cybersecurity certification
+- **Recent:** Built full-stack logistics platform at InterhackBCN 2026 (Damm Challenge)
+- **Target Role:** GRC Analyst / IAM Engineer / SOC Analyst L1 / Junior Security Engineer
+- **Growth Path:** GRC/IAM → DevSecOps → Senior DevSecOps (Remote EU/US)
+- **Availability:** Open to work, open for relocation within Spain & EU
 
 ---
 
