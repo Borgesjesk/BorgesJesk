@@ -24,9 +24,9 @@ This isn't a career change. It's the **same mission, new tools.**
 
 | Program | Status | Focus |
 |---------|--------|-------|
-| **IT Academy Barcelona Activa** — Java Backend Bootcamp | Sprint 4 of 5 (Spring Boot & REST APIs) | Java 21, Maven, JUnit 5, Spring Boot, REST APIs, MySQL, MongoDB |
+| **IT Academy Barcelona Activa** — Java Backend Bootcamp | Sprint 5 / Final Project (FraudSentinel) | Java 21, Maven, JUnit 5, Spring Boot, REST APIs, MySQL, MongoDB
 | **Ironhack IFCT0109** — Seguridad Informática (500h) | In Progress (May–Dec 2026) | Certificado de Profesionalidad + CompTIA Security+ |
-| **Google Cybersecurity Professional Certificate** | 7/8 Courses Complete | NIST, SIEM, Linux, SQL, Python, Incident Response |
+| **Google Cybersecurity Professional Certificate** | ✅ Complete (8/8) | NIST, SIEM, Linux, SQL, Python, Incident Response
 | **42 Barcelona** | Accepted (Piscine June 2026) | Low-level programming, C, systems |
 
 ---
@@ -62,14 +62,20 @@ Trilingual (EN / ES / PT) · International Mediation · KYC & Due Diligence · C
 
 ## 📁 Featured Projects
 
+### 🚛 Hackathon
+
+| Event | Project | Repo |
+|-------|---------|------|
+| InterhackBCN 2026 — Damm Challenge | DammRoute: Parking-first route optimizer with FraudSentinel, LIFO loading, CO₂ tracking | [damm-route-optimizer](https://github.com/Borgesjesk/damm-route-optimizer) |
+
 ### ☕ Java Backend (IT Academy)
 
 | Sprint | Focus | Repo |
 |--------|-------|------|
-| S1.01–S1.09 | OOP, Inheritance, Interfaces, Generics, Streams, Lambdas, File I/O, JUnit 5 | [Sprint 1 Series](https://github.com/Borgesjesk?tab=repositories&q=s1&type=&language=java) |
-| S2.01–S2.04 | MySQL, MongoDB, Docker, Schema Design, Complex Queries | [Sprint 2 Series](https://github.com/Borgesjesk?tab=repositories&q=s2&type=&language=) |
+| S1.01–S1.09 | OOP, Inheritance, Interfaces, Generics, Streams, Lambdas, File I/O, JUnit 5 ✅ | [Sprint 1 Series](https://github.com/Borgesjesk?tab=repositories&q=s1&type=&language=java) |
+| S2.01–S2.04 | MySQL, MongoDB, Docker, Schema Design, Complex Queries ✅ | [Sprint 2 Series](https://github.com/Borgesjesk?tab=repositories&q=s2&type=&language=) |
 | S3.01–S3.03 | SOLID Principles, Design Patterns (Singleton, Factory, Strategy, Builder, Observer, Decorator) ✅ | [Sprint 3 Series](https://github.com/Borgesjesk?tab=repositories&q=s3&type=&language=) |
-| S4.01–S4.02 | Spring Framework, Spring Boot, REST APIs (in progress) | [Sprint 4 Series](https://github.com/Borgesjesk?tab=repositories&q=s4&type=&language=) |
+| S4.01–S4.02 | Spring Framework, Spring Boot, REST APIs ✅ | [Sprint 4 Series](https://github.com/Borgesjesk?tab=repositories&q=s4&type=&language=) |
 
 ### 🛡️ Cybersecurity
 
